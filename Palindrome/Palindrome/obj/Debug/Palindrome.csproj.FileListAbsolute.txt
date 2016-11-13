@@ -1,0 +1,5 @@
+c:\users\chuck\documents\visual studio 2015\Projects\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+c:\users\chuck\documents\visual studio 2015\Projects\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+c:\users\chuck\documents\visual studio 2015\Projects\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+c:\users\chuck\documents\visual studio 2015\Projects\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+c:\users\chuck\documents\visual studio 2015\Projects\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
