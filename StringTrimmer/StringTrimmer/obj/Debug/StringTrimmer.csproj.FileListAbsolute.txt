@@ -1,0 +1,6 @@
+c:\users\wwstudent\documents\visual studio 2013\Projects\StringTrimmer\StringTrimmer\bin\Debug\StringTrimmer.exe.config
+c:\users\wwstudent\documents\visual studio 2013\Projects\StringTrimmer\StringTrimmer\bin\Debug\StringTrimmer.exe
+c:\users\wwstudent\documents\visual studio 2013\Projects\StringTrimmer\StringTrimmer\bin\Debug\StringTrimmer.pdb
+c:\users\wwstudent\documents\visual studio 2013\Projects\StringTrimmer\StringTrimmer\obj\Debug\StringTrimmer.csprojResolveAssemblyReference.cache
+c:\users\wwstudent\documents\visual studio 2013\Projects\StringTrimmer\StringTrimmer\obj\Debug\StringTrimmer.exe
+c:\users\wwstudent\documents\visual studio 2013\Projects\StringTrimmer\StringTrimmer\obj\Debug\StringTrimmer.pdb
