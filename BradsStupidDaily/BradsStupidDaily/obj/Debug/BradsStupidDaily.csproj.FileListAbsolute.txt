@@ -1,0 +1,6 @@
+c:\users\wwstudent\documents\visual studio 2013\Projects\BradsStupidDaily\BradsStupidDaily\bin\Debug\BradsStupidDaily.exe.config
+c:\users\wwstudent\documents\visual studio 2013\Projects\BradsStupidDaily\BradsStupidDaily\bin\Debug\BradsStupidDaily.exe
+c:\users\wwstudent\documents\visual studio 2013\Projects\BradsStupidDaily\BradsStupidDaily\bin\Debug\BradsStupidDaily.pdb
+c:\users\wwstudent\documents\visual studio 2013\Projects\BradsStupidDaily\BradsStupidDaily\obj\Debug\BradsStupidDaily.csprojResolveAssemblyReference.cache
+c:\users\wwstudent\documents\visual studio 2013\Projects\BradsStupidDaily\BradsStupidDaily\obj\Debug\BradsStupidDaily.exe
+c:\users\wwstudent\documents\visual studio 2013\Projects\BradsStupidDaily\BradsStupidDaily\obj\Debug\BradsStupidDaily.pdb

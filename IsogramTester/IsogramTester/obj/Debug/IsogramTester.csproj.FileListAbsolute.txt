@@ -1,0 +1,5 @@
+c:\users\wwstudent\documents\visual studio 2013\Projects\IsogramTester\IsogramTester\bin\Debug\IsogramTester.exe.config
+c:\users\wwstudent\documents\visual studio 2013\Projects\IsogramTester\IsogramTester\bin\Debug\IsogramTester.exe
+c:\users\wwstudent\documents\visual studio 2013\Projects\IsogramTester\IsogramTester\bin\Debug\IsogramTester.pdb
+c:\users\wwstudent\documents\visual studio 2013\Projects\IsogramTester\IsogramTester\obj\Debug\IsogramTester.exe
+c:\users\wwstudent\documents\visual studio 2013\Projects\IsogramTester\IsogramTester\obj\Debug\IsogramTester.pdb
