@@ -1,0 +1,6 @@
+c:\users\wwstudent\documents\visual studio 2013\Projects\RegExDemo\RegExDemo\bin\Debug\RegExDemo.exe.config
+c:\users\wwstudent\documents\visual studio 2013\Projects\RegExDemo\RegExDemo\bin\Debug\RegExDemo.exe
+c:\users\wwstudent\documents\visual studio 2013\Projects\RegExDemo\RegExDemo\bin\Debug\RegExDemo.pdb
+c:\users\wwstudent\documents\visual studio 2013\Projects\RegExDemo\RegExDemo\obj\Debug\RegExDemo.csprojResolveAssemblyReference.cache
+c:\users\wwstudent\documents\visual studio 2013\Projects\RegExDemo\RegExDemo\obj\Debug\RegExDemo.exe
+c:\users\wwstudent\documents\visual studio 2013\Projects\RegExDemo\RegExDemo\obj\Debug\RegExDemo.pdb
