@@ -1,0 +1,6 @@
+c:\users\wwstudent\documents\visual studio 2013\Projects\ConsoleTimer\ConsoleTimer\bin\Debug\ConsoleTimer.exe.config
+c:\users\wwstudent\documents\visual studio 2013\Projects\ConsoleTimer\ConsoleTimer\bin\Debug\ConsoleTimer.exe
+c:\users\wwstudent\documents\visual studio 2013\Projects\ConsoleTimer\ConsoleTimer\bin\Debug\ConsoleTimer.pdb
+c:\users\wwstudent\documents\visual studio 2013\Projects\ConsoleTimer\ConsoleTimer\obj\Debug\ConsoleTimer.csprojResolveAssemblyReference.cache
+c:\users\wwstudent\documents\visual studio 2013\Projects\ConsoleTimer\ConsoleTimer\obj\Debug\ConsoleTimer.exe
+c:\users\wwstudent\documents\visual studio 2013\Projects\ConsoleTimer\ConsoleTimer\obj\Debug\ConsoleTimer.pdb
