@@ -1,0 +1,6 @@
+c:\users\wwstudent\documents\visual studio 2013\Projects\StringArrayAssembler\StringArrayAssembler\bin\Debug\StringArrayAssembler.exe.config
+c:\users\wwstudent\documents\visual studio 2013\Projects\StringArrayAssembler\StringArrayAssembler\bin\Debug\StringArrayAssembler.exe
+c:\users\wwstudent\documents\visual studio 2013\Projects\StringArrayAssembler\StringArrayAssembler\bin\Debug\StringArrayAssembler.pdb
+c:\users\wwstudent\documents\visual studio 2013\Projects\StringArrayAssembler\StringArrayAssembler\obj\Debug\StringArrayAssembler.csprojResolveAssemblyReference.cache
+c:\users\wwstudent\documents\visual studio 2013\Projects\StringArrayAssembler\StringArrayAssembler\obj\Debug\StringArrayAssembler.exe
+c:\users\wwstudent\documents\visual studio 2013\Projects\StringArrayAssembler\StringArrayAssembler\obj\Debug\StringArrayAssembler.pdb
