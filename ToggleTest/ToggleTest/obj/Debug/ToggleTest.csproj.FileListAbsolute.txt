@@ -1,0 +1,6 @@
+c:\users\wwstudent\documents\visual studio 2013\Projects\ToggleTest\ToggleTest\bin\Debug\ToggleTest.exe.config
+c:\users\wwstudent\documents\visual studio 2013\Projects\ToggleTest\ToggleTest\bin\Debug\ToggleTest.exe
+c:\users\wwstudent\documents\visual studio 2013\Projects\ToggleTest\ToggleTest\bin\Debug\ToggleTest.pdb
+c:\users\wwstudent\documents\visual studio 2013\Projects\ToggleTest\ToggleTest\obj\Debug\ToggleTest.csprojResolveAssemblyReference.cache
+c:\users\wwstudent\documents\visual studio 2013\Projects\ToggleTest\ToggleTest\obj\Debug\ToggleTest.exe
+c:\users\wwstudent\documents\visual studio 2013\Projects\ToggleTest\ToggleTest\obj\Debug\ToggleTest.pdb
