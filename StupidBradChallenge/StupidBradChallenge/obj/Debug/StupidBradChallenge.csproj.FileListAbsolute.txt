@@ -1,0 +1,6 @@
+c:\users\chuck\documents\visual studio 2015\Projects\StupidBradChallenge\StupidBradChallenge\bin\Debug\StupidBradChallenge.exe.config
+c:\users\chuck\documents\visual studio 2015\Projects\StupidBradChallenge\StupidBradChallenge\bin\Debug\StupidBradChallenge.exe
+c:\users\chuck\documents\visual studio 2015\Projects\StupidBradChallenge\StupidBradChallenge\bin\Debug\StupidBradChallenge.pdb
+c:\users\chuck\documents\visual studio 2015\Projects\StupidBradChallenge\StupidBradChallenge\obj\Debug\StupidBradChallenge.csprojResolveAssemblyReference.cache
+c:\users\chuck\documents\visual studio 2015\Projects\StupidBradChallenge\StupidBradChallenge\obj\Debug\StupidBradChallenge.exe
+c:\users\chuck\documents\visual studio 2015\Projects\StupidBradChallenge\StupidBradChallenge\obj\Debug\StupidBradChallenge.pdb
