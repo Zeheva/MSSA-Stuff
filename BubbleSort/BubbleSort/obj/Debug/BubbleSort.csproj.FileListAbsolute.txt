@@ -4,3 +4,6 @@ c:\users\wwstudent\documents\visual studio 2013\Projects\BubbleSort\BubbleSort\b
 c:\users\wwstudent\documents\visual studio 2013\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
 c:\users\wwstudent\documents\visual studio 2013\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
 c:\users\wwstudent\documents\visual studio 2013\Projects\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
+F:\test\MSSA-Stuff\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+F:\test\MSSA-Stuff\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+F:\test\MSSA-Stuff\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
